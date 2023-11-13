@@ -21,8 +21,7 @@ You can find here details about the product (or mini-app or module), from a high
 
 ## App Preview
 
-https://github.com/JoaoPadrao/FilterIT-SoftwareEngineering/assets/113979321/91a7868f-7fcf-424c-a918-5eb75ba90853
-
+https://github.com/JoaoPadrao/FilterIT-SoftwareEngineering/assets/113979321/6b575610-8f67-496d-8dc4-1a2ff5b3dc73
 
 
 ---
