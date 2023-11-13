@@ -19,6 +19,12 @@ You can find here details about the product (or mini-app or module), from a high
 * [Configuration and change management](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC14T5/blob/main/docs/ConfigurationAndChangeManagement.md)
 * [Project management](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC14T5/blob/main/docs/ProjectManagement.md)
 
+## App Preview
+
+https://github.com/JoaoPadrao/FilterIT-SoftwareEngineering/assets/113979321/91a7868f-7fcf-424c-a918-5eb75ba90853
+
+
+
 ---
 
 So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
